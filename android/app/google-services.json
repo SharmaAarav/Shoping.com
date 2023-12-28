@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287581094426",
+    "project_id": "clone-f69c7",
+    "storage_bucket": "clone-f69c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287581094426:android:a10f6ffaba8725c5aa47a3",
+        "android_client_info": {
+          "package_name": "com.example.ecom_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQp1tZxDDbxLH8xhIFUPfbQ9LYxVnJWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
